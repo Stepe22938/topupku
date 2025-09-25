@@ -1,7 +1,7 @@
 
 
-global.username = "barmodssofficial"
-global.passwd = "barmodss123@"
+global.username = "Steve22938"
+global.passwd = "Steve22938"
 global.feenya = 50 // FEE PRODUK
 global.apikey = "VPedia_cbs77vmmhwc98a30
   " // APIKEY DARI V-PEDIA
